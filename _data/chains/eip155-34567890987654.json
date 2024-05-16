@@ -1,0 +1,24 @@
+{
+  "name": "MyChainBlockchain",
+  "chain": "MyChainBlockchain",
+  "rpc": ["https://rpc-testnet.MYBLC.network"],
+  "faucets": ["https://explorer.MYBLC.network/faucet"],
+  "nativeCurrency": {
+    "name": "MyChainBlockchain",
+    "symbol": "MYBLC",
+    "decimals": 18
+  },
+  "infoURL": "https://5ire.org",
+  "shortName": "MYBLC",
+  "chainId": 34567890987654,
+  "networkId": 34567890987654,
+  "icon": "MyChainBlockchain",
+  "explorers": [
+    {
+      "name": "MyChainBlockchain",
+      "url": "https://explorer.MYBLC.network",
+      "standard": "none",
+      "icon": "MyChainBlockchain"
+    }
+  ]
+}
